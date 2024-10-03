@@ -16,7 +16,7 @@ I am a top certified full-stack web developer & consultant who has over nine yea
 - ⚡ &nbsp; WordPress | Shopify | Laravel | Codeigniter | CakePHP | Durapal | Symphony
 - 🌐 &nbsp; React | Vue | Next.js | Nuxt.js | Angular | HTML | CSS | JavaScript | TailwindCSS | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | Xampp
-- 🥇 &nbsp; Payment API Integration, Twilio API Integration, Stripe API Integration, Any API with Doc
+- 🥇 &nbsp; Payment API Integration | Twilio API Integration | Stripe API Integration | Any API Integration with Doc
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
 
