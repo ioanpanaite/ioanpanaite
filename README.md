@@ -23,4 +23,4 @@ I am a top certified lead full-stack web developer & consultant who has over 9 y
 <br>
 
 
-⭐️ From [Ioan](https://github.com/ioanpanaite)
+⭐️ From [Ioan Freelancer](https://www.freelancer.com/hireme/johnsda)
