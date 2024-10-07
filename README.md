@@ -23,4 +23,4 @@ I am a top certified lead full-stack web developer & consultant who has over 9 y
 <br>
 
 
-⭐️ Feel free to contact me. [Upwork](https://www.upwork.com/freelancers/~0129f25bde880f3d54?mp_source=share) and [Freelancer](https://www.freelancer.com/hireme/johnsda)
+⭐️ Feel free to contact me. Thank you.
