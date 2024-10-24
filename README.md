@@ -12,7 +12,7 @@ I am a top certified lead full-stack web developer & consultant who has over 9 y
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | PHP | Java | JavaScript | Node.js 
+- 💻 &nbsp; PHP | JavaScript | Java | Python |  Node.js 
 - ⚡ &nbsp; WordPress | Shopify | Laravel | Codeigniter | CakePHP | Durapal | Symphony
 - 🌐 &nbsp; React | Vue | Next.js | Nuxt.js | Angular | HTML | CSS | JavaScript | TailwindCSS | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | Xampp
