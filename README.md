@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 I am a top-certified full-stack web developer & consultant with extensive experience in delivering exceptional, high-quality solutions that consistently drive client success.
 
-<br>
+<br/>
+<br/>
 
 - 💼 &nbsp; Top Certified Lead Full Stack Web Developer.
 - 🔭 &nbsp; I’m currently learning Blockchain Development
