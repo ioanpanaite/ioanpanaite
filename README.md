@@ -1,7 +1,9 @@
 <h2> Hi there! I'm Ioan.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
-I am a top certified lead full-stack web developer & consultant who has over 9 years’ experience delivering the highest quality end products to clients.
+I am a top-certified full-stack web developer & consultant with extensive experience in delivering exceptional, high-quality solutions that consistently drive client success.
+
+<br>
 
 - 💼 &nbsp; Top Certified Lead Full Stack Web Developer.
 - 🔭 &nbsp; I’m currently learning Blockchain Development
